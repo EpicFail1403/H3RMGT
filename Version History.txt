@@ -1,0 +1,3 @@
+initial:
+Removed Dimension Door , Fly , Angel Wings and Spellbinder's Hat from RMG.
+Modified Town Portal to belong to all schools of magic
